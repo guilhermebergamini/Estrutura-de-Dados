@@ -1,0 +1,14 @@
+C:\Users\Guilherme\Desktop\Lista2\bin\Debug\net10.0\Lista2.exe
+C:\Users\Guilherme\Desktop\Lista2\bin\Debug\net10.0\Lista2.deps.json
+C:\Users\Guilherme\Desktop\Lista2\bin\Debug\net10.0\Lista2.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Lista2\bin\Debug\net10.0\Lista2.dll
+C:\Users\Guilherme\Desktop\Lista2\bin\Debug\net10.0\Lista2.pdb
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.dll
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\refint\Lista2.dll
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.pdb
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\Lista2.genruntimeconfig.cache
+C:\Users\Guilherme\Desktop\Lista2\obj\Debug\net10.0\ref\Lista2.dll
