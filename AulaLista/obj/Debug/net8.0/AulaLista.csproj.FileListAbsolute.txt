@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.AssemblyInfo.cs
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.sourcelink.json
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\bin\Debug\net8.0\AulaLista.exe
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\bin\Debug\net8.0\AulaLista.deps.json
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\bin\Debug\net8.0\AulaLista.runtimeconfig.json
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\bin\Debug\net8.0\AulaLista.dll
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\bin\Debug\net8.0\AulaLista.pdb
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.dll
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\refint\AulaLista.dll
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.pdb
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\AulaLista.genruntimeconfig.cache
+C:\Users\aluno\Desktop\blabla\Estrutura-de-Dados\AulaLista\obj\Debug\net8.0\ref\AulaLista.dll
