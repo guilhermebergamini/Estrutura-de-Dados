@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aluno\\Desktop\\blabla\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj": {}
+    "C:\\Users\\aluno\\Desktop\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aluno\\Desktop\\blabla\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj": {
+    "C:\\Users\\aluno\\Desktop\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\blabla\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj",
+        "projectUniqueName": "C:\\Users\\aluno\\Desktop\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj",
         "projectName": "AulaLista",
-        "projectPath": "C:\\Users\\aluno\\Desktop\\blabla\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj",
+        "projectPath": "C:\\Users\\aluno\\Desktop\\Estrutura-de-Dados\\AulaLista\\AulaLista.csproj",
         "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aluno\\Desktop\\blabla\\Estrutura-de-Dados\\AulaLista\\obj\\",
+        "outputPath": "C:\\Users\\aluno\\Desktop\\Estrutura-de-Dados\\AulaLista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"

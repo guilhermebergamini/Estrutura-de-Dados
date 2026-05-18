@@ -1,8 +1,10 @@
 ﻿Lista ListaSE = new();
 
-ListaSE.inserirInicio(10);
-ListaSE.inserirInicio(20);
-ListaSE.inserirInicio(30);
+ListaSE.InserirFim(10);
+ListaSE.InserirFim(20);
+ListaSE.InserirFim(30);
+ListaSE.InserirFim(40);
 
-ListaSE.RemoverFim();
+ListaSE.InserirMeio(20, 25);
+
 ListaSE.Percurso();

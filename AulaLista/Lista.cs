@@ -46,6 +46,8 @@ public class Lista
         }
     }
 
+
+
     public void Percurso()
     {
         No noAtual = this.inicio;
@@ -130,12 +132,84 @@ public class Lista
         }
     }
 
-    public void RemoverMeio()
+    public void RemoverMeio(int valor)
     {
         if (this.estaVazia())
         {
             Console.WriteLine("Necessário inserir valores na lista.");
+            return;
         }
-        else if ()
+
+        if (this.inicio.valor == valor)
+        {
+            int valorRemovido = this.inicio.valor;
+
+            this.inicio = this.inicio.prox;
+
+            if (this.inicio == null)
+            {
+                this.fim = null;
+            }
+
+            Console.WriteLine("Removendo o elemento: " + valorRemovido);
+            return;
+        }
+
+        No anterior = this.inicio;
+        No atual = this.inicio.prox;
+
+        while (atual != null && atual.valor != valor)
+        {
+            anterior = atual;
+            atual = atual.prox;
+        }
+
+        if (atual == null)
+        {
+            Console.WriteLine("Valor não encontrado.");
+            return;
+        }
+
+        anterior.prox = atual.prox;
+
+        if (atual == this.fim)
+        {
+            this.fim = anterior;
+        }
+
+        Console.WriteLine("Removendo o elemento: " + valor);
+    }
+
+    public void InserirMeio(int inserirValor, int Valor)
+    {
+        No novoNo = new No(Valor);
+
+        if (this.estaVazia())
+        {
+            this.inicio = novoNo;
+            this.fim = novoNo;
+            return;
+        }
+
+        No noAtual = this.inicio;
+
+        while (noAtual != null && noAtual.valor != inserirValor)
+        {
+            noAtual = noAtual.prox;
+        }
+
+        if (noAtual == null)
+        {
+            Console.WriteLine("Valor de referência não encontrado.");
+            return;
+        }
+
+        novoNo.prox = noAtual.prox;
+        noAtual.prox = novoNo;
+
+        if (noAtual == this.fim)
+        {
+            this.fim = novoNo;
+        }
     }
 }
